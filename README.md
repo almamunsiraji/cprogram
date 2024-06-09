@@ -1,9 +1,9 @@
 <html>
- <title> This is my Github Assignment </title>
 <h1> This is First Heading </h1>
 <h2> This is 2nd Heading </h2>
 <h3> This is 3rd Heading </h3>
  <body> 
+  <title> This is my Github Assignment </title>
   <p> This is my first assignment for Github </p>
  </body>
 </html>
