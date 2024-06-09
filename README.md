@@ -1,7 +1,8 @@
-# Healding1
-## Heading2
-### Heading3
-
+<html>
+<h1> This is First Heading </h1>
+<h2> This is 2nd Heading </h2>
+<h3> This is 3rd Heading </h3>
+</html>
 This is normal Text
 
 **This is Bold Text**
@@ -16,12 +17,3 @@ _this is italic text_
 3. Siraji
  
  ![Abdullah Al Mamun Siraji](images/AbdullahAlMamunSiraji.jpg)
-
-😀
-😃
-😄
-😁
-😆
-😅
-😂
-🤣
